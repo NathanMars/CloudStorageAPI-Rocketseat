@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CloudStorage.Application/1.0.0": {
+        "dependencies": {
+          "File.TypeChecker": "4.1.1"
+        },
+        "runtime": {
+          "CloudStorage.Application.dll": {}
+        }
+      },
+      "File.TypeChecker/4.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/FileTypeChecker.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudStorage.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "File.TypeChecker/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tHYymbqp6JysSzwGJakP+TDvE6gkjgSlit24uIXrXKa8vye52+9mYYTD5GLxFpcNSOQQAWwaD5NkGEAP0S6knQ==",
+      "path": "file.typechecker/4.1.1",
+      "hashPath": "file.typechecker.4.1.1.nupkg.sha512"
+    }
+  }
+}

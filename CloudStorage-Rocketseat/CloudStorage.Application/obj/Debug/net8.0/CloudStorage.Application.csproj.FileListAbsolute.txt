@@ -1,0 +1,12 @@
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Application.deps.json
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Application.dll
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\bin\Debug\net8.0\CloudStorage.Application.pdb
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.AssemblyInfo.cs
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.dll
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\refint\CloudStorage.Application.dll
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\CloudStorage.Application.pdb
+C:\Users\natha\source\repos\CloudStorage-Rocketseat\CloudStorage.Application\obj\Debug\net8.0\ref\CloudStorage.Application.dll
