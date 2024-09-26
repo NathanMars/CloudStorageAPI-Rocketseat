@@ -7,7 +7,7 @@ using Google.Apis.Drive.v3;
 using Microsoft.AspNetCore.Http;
 
 namespace CloudStorage_Rocketseat.Infraestructure.Storage;
-internal class GoogleDriveStorageService : IStorageService
+public class GoogleDriveStorageService : IStorageService
 {
     private readonly GoogleAuthorizationCodeFlow _authorization;
 

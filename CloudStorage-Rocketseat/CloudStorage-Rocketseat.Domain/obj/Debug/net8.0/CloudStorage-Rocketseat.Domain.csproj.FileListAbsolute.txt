@@ -1,0 +1,12 @@
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\bin\Debug\net8.0\CloudStorage-Rocketseat.Domain.deps.json
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\bin\Debug\net8.0\CloudStorage-Rocketseat.Domain.dll
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\bin\Debug\net8.0\CloudStorage-Rocketseat.Domain.pdb
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\CloudStorage-Rocketseat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\CloudStorage-Rocketseat.Domain.AssemblyInfoInputs.cache
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\CloudStorage-Rocketseat.Domain.AssemblyInfo.cs
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\CloudStorage-Rocketseat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\CloudStorage-Rocketseat.Domain.sourcelink.json
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\CloudStorage-Rocketseat.Domain.dll
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\refint\CloudStorage-Rocketseat.Domain.dll
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\CloudStorage-Rocketseat.Domain.pdb
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Domain\obj\Debug\net8.0\ref\CloudStorage-Rocketseat.Domain.dll

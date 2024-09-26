@@ -8,10 +8,8 @@ namespace CloudStorage.API.Controllers;
 public class StorageController : ControllerBase
 {
     [HttpPost]
-    public IActionResult UploadImage(IFormFile file)
+    public IActionResult UploadImage([FromServices] IUploadProfilePicUseCase useCase, IFormFile file)
     {
-        var useCase = new UploadProfilePicUseCase();
-        
         useCase.Execute(file);
 
         return Created();

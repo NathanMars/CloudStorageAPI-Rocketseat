@@ -5,7 +5,7 @@ using FileTypeChecker.Types;
 using Microsoft.AspNetCore.Http;
 
 namespace CloudStorage.Application.UseCases.Users.UploadProfilePic;
-public class UploadProfilePicUseCase
+public class UploadProfilePicUseCase : IUploadProfilePicUseCase
 {
     private readonly IStorageService _storageService;
     public UploadProfilePicUseCase(IStorageService storageService)
@@ -32,8 +32,10 @@ public class UploadProfilePicUseCase
         return new User
         {
             Id = 1,
-            Name = "Nathan",
-            Email = "nathanmarques.silva@gmail.com"
+            Name = "", //Nome da conta Google Drive
+            Email = "", //Email da conta Google Drive
+            RefreshToken = "", //Refresh Token gerado pela Drive API v3 do Google Developers
+            AccessToken = "" //Acces Token gerado pela Drive API v3 do Google Developers
         };
     }
 }

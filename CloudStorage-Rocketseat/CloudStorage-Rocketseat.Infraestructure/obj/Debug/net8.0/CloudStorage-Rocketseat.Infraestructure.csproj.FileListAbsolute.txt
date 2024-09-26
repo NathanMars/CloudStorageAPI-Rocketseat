@@ -1,0 +1,16 @@
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\bin\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.deps.json
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\bin\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.dll
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\bin\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.pdb
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\bin\Debug\net8.0\CloudStorage-Rocketseat.Domain.dll
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\bin\Debug\net8.0\CloudStorage-Rocketseat.Domain.pdb
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.AssemblyInfo.cs
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.sourcelink.json
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudSto.374A7FCA.Up2Date
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.dll
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\refint\CloudStorage-Rocketseat.Infraestructure.dll
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\CloudStorage-Rocketseat.Infraestructure.pdb
+C:\Users\nmarques\Documents\GitHub\CloudStorageAPI-Rocketseat\CloudStorage-Rocketseat\CloudStorage-Rocketseat.Infraestructure\obj\Debug\net8.0\ref\CloudStorage-Rocketseat.Infraestructure.dll

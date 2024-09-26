@@ -67,6 +67,76 @@
         }
       }
     },
+    "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj",
+        "projectName": "CloudStorage-Rocketseat.Infraestructure",
+        "projectPath": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\nmarques\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nmarques\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj": {
+                "projectPath": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Google.Apis.Drive.v3": {
+              "target": "Package",
+              "version": "[1.68.0.3533, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.API\\CloudStorage.API.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -91,6 +161,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj"
+              },
               "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.Application\\CloudStorage.Application.csproj": {
                 "projectPath": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.Application\\CloudStorage.Application.csproj"
               }
