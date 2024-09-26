@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CX6zJHKkRvw=",
+  "dgSpecHash": "TUR/vS+uRtg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage.Application\\CloudStorage.Application.csproj",
+  "projectFilePath": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.Application\\CloudStorage.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\natha\\.nuget\\packages\\file.typechecker\\4.1.1\\file.typechecker.4.1.1.nupkg.sha512"
+    "C:\\Users\\nmarques\\.nuget\\packages\\file.typechecker\\4.1.1\\file.typechecker.4.1.1.nupkg.sha512"
   ],
   "logs": []
 }

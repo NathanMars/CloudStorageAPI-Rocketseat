@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CloudStorage-Rocketseat.Domain",
+    "\\CloudStorage-Rocketseat.Domain\\Storage",
+    "\\CloudStorage-Rocketseat.Infraestructure",
+    "\\CloudStorage-Rocketseat.Infraestructure\\Storage",
+    "\\CloudStorage.Application",
+    "\\CloudStorage.Application\\UseCases",
+    "\\CloudStorage.Application\\UseCases\\Users",
+    "\\CloudStorage.Application\\UseCases\\Users\\UploadProfilePic"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\",
+  "WorkspaceRootPath": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7069B34-96ED-4934-9B6B-AC861E004CDE}|CloudStorage.Application\\CloudStorage.Application.csproj|c:\\users\\natha\\source\\repos\\cloudstorage-rocketseat\\cloudstorage.application\\usecases\\users\\uploadprofilepic\\uploadprofilepicusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7069B34-96ED-4934-9B6B-AC861E004CDE}|CloudStorage.Application\\CloudStorage.Application.csproj|solutionrelative:cloudstorage.application\\usecases\\users\\uploadprofilepic\\uploadprofilepicusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D07DD6-9F31-4568-B1E7-DE377B49C414}|CloudStorage.API\\CloudStorage.API.csproj|c:\\users\\natha\\source\\repos\\cloudstorage-rocketseat\\cloudstorage.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D07DD6-9F31-4568-B1E7-DE377B49C414}|CloudStorage.API\\CloudStorage.API.csproj|solutionrelative:cloudstorage.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD0A758D-AD67-410D-999F-658C83B75207}|CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj|c:\\users\\natha\\source\\repos\\cloudstorage-rocketseat\\cloudstorage-rocketseat.infraestructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD0A758D-AD67-410D-999F-658C83B75207}|CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj|c:\\users\\nmarques\\documents\\github\\cloudstorageapi-rocketseat\\cloudstorage-rocketseat\\cloudstorage-rocketseat.infraestructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD0A758D-AD67-410D-999F-658C83B75207}|CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj|solutionrelative:cloudstorage-rocketseat.infraestructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31B816FE-7BEA-42B5-82CA-5ED96A51CC5F}|CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj|c:\\users\\natha\\source\\repos\\cloudstorage-rocketseat\\cloudstorage-rocketseat.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B816FE-7BEA-42B5-82CA-5ED96A51CC5F}|CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj|solutionrelative:cloudstorage-rocketseat.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B816FE-7BEA-42B5-82CA-5ED96A51CC5F}|CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj|c:\\users\\natha\\source\\repos\\cloudstorage-rocketseat\\cloudstorage-rocketseat.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31B816FE-7BEA-42B5-82CA-5ED96A51CC5F}|CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj|c:\\users\\nmarques\\documents\\github\\cloudstorageapi-rocketseat\\cloudstorage-rocketseat\\cloudstorage-rocketseat.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B816FE-7BEA-42B5-82CA-5ED96A51CC5F}|CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj|solutionrelative:cloudstorage-rocketseat.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD0A758D-AD67-410D-999F-658C83B75207}|CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj|c:\\users\\natha\\source\\repos\\cloudstorage-rocketseat\\cloudstorage-rocketseat.infraestructure\\cloudstorage-rocketseat.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DD0A758D-AD67-410D-999F-658C83B75207}|CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj|solutionrelative:cloudstorage-rocketseat.infraestructure\\cloudstorage-rocketseat.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C7069B34-96ED-4934-9B6B-AC861E004CDE}|CloudStorage.Application\\CloudStorage.Application.csproj|c:\\users\\nmarques\\documents\\github\\cloudstorageapi-rocketseat\\cloudstorage-rocketseat\\cloudstorage.application\\usecases\\users\\uploadprofilepic\\uploadprofilepicusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7069B34-96ED-4934-9B6B-AC861E004CDE}|CloudStorage.Application\\CloudStorage.Application.csproj|solutionrelative:cloudstorage.application\\usecases\\users\\uploadprofilepic\\uploadprofilepicusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D07DD6-9F31-4568-B1E7-DE377B49C414}|CloudStorage.API\\CloudStorage.API.csproj|c:\\users\\nmarques\\documents\\github\\cloudstorageapi-rocketseat\\cloudstorage-rocketseat\\cloudstorage.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D07DD6-9F31-4568-B1E7-DE377B49C414}|CloudStorage.API\\CloudStorage.API.csproj|solutionrelative:cloudstorage.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B816FE-7BEA-42B5-82CA-5ED96A51CC5F}|CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj|c:\\users\\nmarques\\documents\\github\\cloudstorageapi-rocketseat\\cloudstorage-rocketseat\\cloudstorage-rocketseat.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B816FE-7BEA-42B5-82CA-5ED96A51CC5F}|CloudStorage-Rocketseat.Domain\\CloudStorage-Rocketseat.Domain.csproj|solutionrelative:cloudstorage-rocketseat.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UploadProfilePicUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage.Application\\UseCases\\Users\\UploadProfilePic\\UploadProfilePicUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.Application\\UseCases\\Users\\UploadProfilePic\\UploadProfilePicUseCase.cs",
               "RelativeDocumentMoniker": "CloudStorage.Application\\UseCases\\Users\\UploadProfilePic\\UploadProfilePicUseCase.cs",
-              "ToolTip": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage.Application\\UseCases\\Users\\UploadProfilePic\\UploadProfilePicUseCase.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.Application\\UseCases\\Users\\UploadProfilePic\\UploadProfilePicUseCase.cs",
               "RelativeToolTip": "CloudStorage.Application\\UseCases\\Users\\UploadProfilePic\\UploadProfilePicUseCase.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAKAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T20:42:56.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GoogleDriveStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
-              "RelativeDocumentMoniker": "CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
-              "ToolTip": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
-              "RelativeToolTip": "CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:33:44.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StorageController.cs",
-              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage.API\\Controllers\\StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.API\\Controllers\\StorageController.cs",
               "RelativeDocumentMoniker": "CloudStorage.API\\Controllers\\StorageController.cs",
-              "ToolTip": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage.API\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage.API\\Controllers\\StorageController.cs",
               "RelativeToolTip": "CloudStorage.API\\Controllers\\StorageController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAASwAwAAAAxAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T19:02:26.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "CloudStorage-Rocketseat.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Entities\\User.cs",
               "RelativeToolTip": "CloudStorage-Rocketseat.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T20:52:17.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Storage\\IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Storage\\IStorageService.cs",
               "RelativeDocumentMoniker": "CloudStorage-Rocketseat.Domain\\Storage\\IStorageService.cs",
-              "ToolTip": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Storage\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Domain\\Storage\\IStorageService.cs",
               "RelativeToolTip": "CloudStorage-Rocketseat.Domain\\Storage\\IStorageService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T20:23:38.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CloudStorage-Rocketseat.Infraestructure",
-              "DocumentMoniker": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj",
-              "RelativeDocumentMoniker": "CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj",
-              "ToolTip": "C:\\Users\\natha\\source\\repos\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj",
-              "RelativeToolTip": "CloudStorage-Rocketseat.Infraestructure\\CloudStorage-Rocketseat.Infraestructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-22T20:53:35.391Z",
+              "DocumentIndex": 0,
+              "Title": "GoogleDriveStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeDocumentMoniker": "CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
+              "ToolTip": "C:\\Users\\nmarques\\Documents\\GitHub\\CloudStorageAPI-Rocketseat\\CloudStorage-Rocketseat\\CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeToolTip": "CloudStorage-Rocketseat.Infraestructure\\Storage\\GoogleDriveStorageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:33:44.371Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
